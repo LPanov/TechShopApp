@@ -41,3 +41,6 @@ stacktrace.log
 # --- Build Tools ---
 # Maven
 .mvn/wrapper/maven-wrapper.jar
+
+.sock
+*.sock
